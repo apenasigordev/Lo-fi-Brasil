@@ -21,4 +21,4 @@ Simples, apenas mute e desmute o bot no servidor.
 Ainda não temos.
 
 - Qual linguagem de programação do bot?
-Javascript# Lo-fi-Brasil
+Javascript
